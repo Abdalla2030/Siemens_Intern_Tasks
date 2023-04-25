@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1676059987 source:d:\codes\siemens ( oop task )\main.cpp
+	"packetAnalyzer.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1676059935 d:\codes\siemens ( oop task )\packetanalyzer.h
+	<iostream>
+	<string>
+
+1676059935 source:d:\codes\siemens ( oop task )\packetanalyzer.cpp
+	"packetAnalyzer.h"
+

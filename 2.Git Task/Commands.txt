@@ -1,0 +1,48 @@
+Github Repo Link:
+https://github.com/Abdalla2030/Siemens_Git_Task
+=======================================
+Steps :
+
+1- I Created a Repo in Github.
+
+2- I wrote the C++ Code of getSum and main Functions.
+
+3- Uploaded The main.cpp File in Repo by Git Bash using these commands.
+
+git init
+git config --global user.name "Abdalla Fadl"
+git config --global user.email "abdalla.fadle2001@gmail.com"
+git remote add origin https://github.com/Abdalla2030/Siemens_Git_Task
+git add .
+git commit -m "getSum Function"
+git log
+git push origin master
+
+
+4- getAverage function is added in main.cpp file and new branch is added and update changes using this commands.
+
+git checkout -b firstBranch
+git add .
+git commit -m "getAverage Function"
+git push origin firstBranch
+
+
+5- getMin function is added in main.cpp file and new branch is added and update changes using this commands.
+
+git checkout -b secondBranch
+git add .
+git commit -m "getMin Function"
+git push origin secondBranch
+
+
+6- merge between first and master branch --> no problem found
+
+7- merge between second and master branch  --> conflict problem found and solved manually
+
+
+
+
+
+
+
+
